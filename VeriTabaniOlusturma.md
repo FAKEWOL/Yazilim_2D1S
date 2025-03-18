@@ -9,7 +9,7 @@ Bağlanılacak Bilgisayarın Doğru Olduğunu Kontrol edin <br>
 ![v3](https://github.com/user-attachments/assets/ee0d1810-331d-4474-a573-bc5345971275)
 ![v4](https://github.com/user-attachments/assets/ba07c267-e789-433e-bedc-41adbaf3d57d)
 
-
+Ardından Giriş Yapın
 
 ![v5](https://github.com/user-attachments/assets/116b8b41-ea40-45c4-b58f-0122b2bde360)
 
