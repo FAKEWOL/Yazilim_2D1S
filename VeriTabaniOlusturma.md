@@ -2,7 +2,7 @@ Masaüstünden Microsoft SQL Server Management Studio'yu açın
 
 ![v1](https://github.com/user-attachments/assets/46cca691-5227-43ca-aa2d-4a9528a07674) <br>
 
-
+İlk önce hiçbir değişiklik yapmadan giriş yapın
 
 ![v2](https://github.com/user-attachments/assets/dee06f10-0a03-469b-9f78-6f86578ed1aa)
 
