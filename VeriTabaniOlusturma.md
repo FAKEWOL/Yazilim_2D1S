@@ -20,8 +20,8 @@ Açılan Sayfada Solüst Tarafta Bulunan Security Kısmına Gidin
 Security Kısmına Sağ Tıklayın
 
 ![v7](https://github.com/user-attachments/assets/14ecb546-98ec-4223-a957-010e828e9fa9)
-
 ![v8](https://github.com/user-attachments/assets/954ca607-b63e-4c9c-a8b0-8628a40684e5)
+New Login OLuşturun
 
 ![v9](https://github.com/user-attachments/assets/3f3e0644-5d1e-43fb-949e-1675cca7e8f1)
 
