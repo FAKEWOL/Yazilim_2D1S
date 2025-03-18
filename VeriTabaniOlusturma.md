@@ -7,13 +7,17 @@ Karşınıza Böyle Bir Sayfa Gelecek
 ![v2](https://github.com/user-attachments/assets/dee06f10-0a03-469b-9f78-6f86578ed1aa) <br>
 Bağlanılacak Bilgisayarın Doğru Olduğunu Kontrol edin <br>
 ![v3](https://github.com/user-attachments/assets/ee0d1810-331d-4474-a573-bc5345971275)
-![v4](https://github.com/user-attachments/assets/ba07c267-e789-433e-bedc-41adbaf3d57d)
+![v4](https://github.com/user-attachments/assets/ba07c267-e789-433e-bedc-41adbaf3d57d) <br>
 
-Ardından Giriş Yapın
+Ardından Giriş Yapın <br> 
 
-![v5](https://github.com/user-attachments/assets/116b8b41-ea40-45c4-b58f-0122b2bde360)
+![v5](https://github.com/user-attachments/assets/116b8b41-ea40-45c4-b58f-0122b2bde360) <br>
 
-![v6](https://github.com/user-attachments/assets/fc5b984e-75e4-4147-90dd-441a4399ad8d)
+Açılan Sayfada Solüst Tarafta Bulunan Security Kısmına Gidin
+
+![v6](https://github.com/user-attachments/assets/fc5b984e-75e4-4147-90dd-441a4399ad8d) <br>
+
+Security Kısmına Sağ Tıklayın
 
 ![v7](https://github.com/user-attachments/assets/14ecb546-98ec-4223-a957-010e828e9fa9)
 
