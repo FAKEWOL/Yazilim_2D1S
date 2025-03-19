@@ -33,15 +33,19 @@ Açılan Sayfada "sysadmin" ve "public" kutucuğunu işaretleyin ve bir sonraki 
 
 ![v11](https://github.com/user-attachments/assets/53a1f893-502a-4d34-8a83-fb3b9b6b6032) <br>
 
-Açılan Sayfadaki bütün kutuları işaretleyip "db_owner" yetkisi verin
+![v12](https://github.com/user-attachments/assets/54932ad7-ee27-47c9-9d2a-c780681135e6) <br>
 
-![v12](https://github.com/user-attachments/assets/54932ad7-ee27-47c9-9d2a-c780681135e6)
+Açılan Sayfadaki bütün kutuları işaretleyip "db_owner" yetkisi verdin ve sonraki sayfaya geçin
 
-![v13](https://github.com/user-attachments/assets/c63dcf2a-451c-435d-b873-81040661184b)
+![v13](https://github.com/user-attachments/assets/c63dcf2a-451c-435d-b873-81040661184b) <br>
 
-![v14](https://github.com/user-attachments/assets/2c29aa43-7bd4-4e71-82a9-722047ab84e0)
+![v14](https://github.com/user-attachments/assets/2c29aa43-7bd4-4e71-82a9-722047ab84e0) <br>
+
+açılan Sayfada "Search" Kısmına Tıklayın Kendi Bilgisayarınızı Seçin ve tamam a basın
 
 ![v15](https://github.com/user-attachments/assets/959ce5a5-6ad6-44ef-8785-45e8e42ed3d5)
+
+
 
 ![v16](https://github.com/user-attachments/assets/21a491cf-6a7f-4a0b-b452-74bd2036c6a6)
 
