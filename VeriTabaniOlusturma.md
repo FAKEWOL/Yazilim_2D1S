@@ -77,7 +77,11 @@ Database Kısmından Yeni Veritabanı Oluşturun
 
 ![v25](https://github.com/user-attachments/assets/16378a9b-a3c5-44d4-aadd-0dc7d3d53713)
 
+Veritabanının adını "EtercihVT" yapın ve tamam a basın ve uygulamaya yenileyin
+
 ![v26](https://github.com/user-attachments/assets/2357d127-5b3e-41f4-b210-bbf3c732439d)
+
+Etercih'in içindeki table kısmına sağ tıklayıp "Tercih" ve "TercihSecenekleri" adıdna 2 adet table oluşturun aşağıda tableların özelikleri verilmiştir içine veri eklemeyi unutmayın
 
 ![v27](https://github.com/user-attachments/assets/94166302-7f43-45b0-8090-8d5c55a3f128)
 
