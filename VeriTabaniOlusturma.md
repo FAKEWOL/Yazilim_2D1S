@@ -43,17 +43,21 @@ Açılan Sayfadaki bütün kutuları işaretleyip "db_owner" yetkisi verdin ve s
 
 açılan Sayfada "Search" Kısmına Tıklayın Kendi Bilgisayarınızı Seçin ve tamam a basın
 
-![v15](https://github.com/user-attachments/assets/959ce5a5-6ad6-44ef-8785-45e8e42ed3d5)
+![v15](https://github.com/user-attachments/assets/959ce5a5-6ad6-44ef-8785-45e8e42ed3d5) <br>
 
+![v16](https://github.com/user-attachments/assets/21a491cf-6a7f-4a0b-b452-74bd2036c6a6) <br>
 
-
-![v16](https://github.com/user-attachments/assets/21a491cf-6a7f-4a0b-b452-74bd2036c6a6)
+Resim de Gördüğünüz yere sağ tıklayın ve "Properties" Kısmına Gelin
 
 ![v17](https://github.com/user-attachments/assets/2b8157f6-70f8-4f9f-92d4-ba7240cb9b78)
 
 ![v18](https://github.com/user-attachments/assets/db13b529-e17a-41ae-a6f5-ca940d4d4ee7)
 
+Açılan Sayfada Security Kısmına Gelin ve Sql Server'ı İşaretleyin
+
 ![v19](https://github.com/user-attachments/assets/b6331abc-327a-4174-bf56-024426649b94)
+
+Ardından Böyle Bir Uyarı Gelecek Tamam'a Basın
 
 ![v20](https://github.com/user-attachments/assets/7c555dc9-dbb9-4fab-bcb7-947963c53f4a)
 
