@@ -27,9 +27,13 @@ Böyle Bir Sayfa Açılacak
 
 Ben Kullanıcı Adını:aa Şifreyi ise: 123456 yaptım tikleri kaldırın ve Server Roles Kısmına Tıklayın
 
-![v10](https://github.com/user-attachments/assets/8792d1ad-227b-4d98-a450-07dfef3cbbd1)
+![v10](https://github.com/user-attachments/assets/8792d1ad-227b-4d98-a450-07dfef3cbbd1) <br>
 
-![v11](https://github.com/user-attachments/assets/53a1f893-502a-4d34-8a83-fb3b9b6b6032)
+Açılan Sayfada "sysadmin" ve "public" kutucuğunu işaretleyin ve bir sonraki sayfaya geçin
+
+![v11](https://github.com/user-attachments/assets/53a1f893-502a-4d34-8a83-fb3b9b6b6032) <br>
+
+Açılan Sayfadaki bütün kutuları işaretleyip "db_owner" yetkisi verin
 
 ![v12](https://github.com/user-attachments/assets/54932ad7-ee27-47c9-9d2a-c780681135e6)
 
