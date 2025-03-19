@@ -115,8 +115,6 @@ Ardından Veri Tabanı ile Bağlantı Kurun
 
 ![v37](https://github.com/user-attachments/assets/245dd3ea-0066-4f4b-92ef-9528f43d5fb2)
 
-![v38](https://github.com/user-attachments/assets/2a414a29-bab4-4c43-abcc-34e380a63cfc)
-
 ![v39](https://github.com/user-attachments/assets/6fa50096-09a4-4be3-b162-6076fd1afe01)
 
 ![v40](https://github.com/user-attachments/assets/eab86b1f-73a2-4676-9eb5-946ee178e937)
