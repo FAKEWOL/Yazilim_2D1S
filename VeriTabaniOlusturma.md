@@ -61,13 +61,19 @@ Ardından Böyle Bir Uyarı Gelecek Tamam'a Basın
 
 ![v20](https://github.com/user-attachments/assets/7c555dc9-dbb9-4fab-bcb7-947963c53f4a)
 
+Resimde Gördüğünüz Uygulamayı Aratın. SQL Server Services Kısmına Gelin SQL Server MSS'i Kırmızı ile işaretlenmiş yere tıklayıp yeniden başlatın
+
 ![v21](https://github.com/user-attachments/assets/d4b5cfff-ea68-4a56-a248-ee96c97d689e)
 
 ![v22](https://github.com/user-attachments/assets/88d15858-22d4-407c-b3ed-1b4b2566ad75)
 
 ![v23](https://github.com/user-attachments/assets/d91d5608-28ac-4941-921b-a5ee1025db93)
 
+Oluşturmuş Olduğunuz Kullanıcı ile Giriş Yapın
+
 ![v24](https://github.com/user-attachments/assets/2eb592fc-59af-4b62-a625-524f58975ed8)
+
+Database Kısmından Yeni Veritabanı Oluşturun
 
 ![v25](https://github.com/user-attachments/assets/16378a9b-a3c5-44d4-aadd-0dc7d3d53713)
 
