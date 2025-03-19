@@ -19,10 +19,11 @@ Açılan Sayfada Solüst Tarafta Bulunan Security Kısmına Gidin <br>
 
 Security Kısmına Sağ Tıklayın New Login OLuşturun
 
-![v8](https://github.com/user-attachments/assets/954ca607-b63e-4c9c-a8b0-8628a40684e5)
+![v8](https://github.com/user-attachments/assets/954ca607-b63e-4c9c-a8b0-8628a40684e5) <br>
 
 Böyle Bir Sayfa Açılacak
-![v9](https://github.com/user-attachments/assets/3f3e0644-5d1e-43fb-949e-1675cca7e8f1)
+
+![v9](https://github.com/user-attachments/assets/3f3e0644-5d1e-43fb-949e-1675cca7e8f1) <br>
 
 Ben Kullanıcı Adını:aa Şifreyi ise: 123456 yaptım tikleri kaldırın ve Server Roles Kısmına Tıklayın
 
