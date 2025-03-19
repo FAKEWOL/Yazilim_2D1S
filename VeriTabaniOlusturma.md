@@ -107,11 +107,9 @@ Tikleri kaldırıp sürümü 6.0 seçin tamam'a basın
 
 ![v34](https://github.com/user-attachments/assets/547d6160-f5b2-4332-9eb9-e335444bbfb3)
 
-sağ tarafata bulunan Solution Etercih'e sağtıklyın Nuget Yöneticisine tıklayıp Browse Kısmından aşadaki Araçları İndirin
+sağ tarafata bulunan Solution Etercih'e sağtıklyın Nuget Yöneticisine tıklayıp Browse Kısmından aşadaki Araçları İndirin Ardından Veri Tabanı ile Bağlantı Kurun
 
 ![v36](https://github.com/user-attachments/assets/d43b95f7-33d5-4efc-8764-df558b3f3d20)
-
-Ardından Veri Tabanı ile Bağlantı Kurun
 
 ![v37](https://github.com/user-attachments/assets/245dd3ea-0066-4f4b-92ef-9528f43d5fb2)
 
