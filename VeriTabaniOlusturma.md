@@ -91,17 +91,27 @@ Etercih'in içindeki table kısmına sağ tıklayıp "Tercih" ve "TercihSecenekl
 
 ![v30](https://github.com/user-attachments/assets/42d2dc4b-f487-417e-a521-05624f5ec4f4)
 
+Visual Studio 2022 açın ve yeri proje oluşturun
+
 ![v31](https://github.com/user-attachments/assets/a7dcb46b-493b-48ea-8674-21e50633b8fa)
+
+sol üste bulunan yerden Model View Controller'a Tıklayın 
 
 ![v32](https://github.com/user-attachments/assets/3bdb34bd-1511-472d-9106-e526efe263da)
 
+Projeye İsim verin ben Etercih yaptım
+
 ![v33](https://github.com/user-attachments/assets/9fb34b6b-1dae-46fa-8c88-5da7e905ea58)
+
+Tikleri kaldırıp sürümü 6.0 seçin tamam'a basın
 
 ![v34](https://github.com/user-attachments/assets/547d6160-f5b2-4332-9eb9-e335444bbfb3)
 
-![v35](https://github.com/user-attachments/assets/0e7cb5c6-1f55-45e7-8d34-a7a900c6be20)
+sağ tarafata bulunan Solution Etercih'e sağtıklyın Nuget Yöneticisine tıklayıp Browse Kısmından aşadaki Araçları İndirin
 
 ![v36](https://github.com/user-attachments/assets/d43b95f7-33d5-4efc-8764-df558b3f3d20)
+
+Ardından Veri Tabanı ile Bağlantı Kurun
 
 ![v37](https://github.com/user-attachments/assets/245dd3ea-0066-4f4b-92ef-9528f43d5fb2)
 
