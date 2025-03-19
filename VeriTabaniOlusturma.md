@@ -13,7 +13,7 @@ Ardından Giriş Yapın <br>
 
 ![v5](https://github.com/user-attachments/assets/116b8b41-ea40-45c4-b58f-0122b2bde360) <br>
 
-Açılan Sayfada Solüst Tarafta Bulunan Security Kısmına Gidin
+Açılan Sayfada Solüst Tarafta Bulunan Security Kısmına Gidin <br>
 
 ![v6](https://github.com/user-attachments/assets/fc5b984e-75e4-4147-90dd-441a4399ad8d) <br>
 
